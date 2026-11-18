@@ -1,0 +1,3 @@
+/workspaces/sphere/build/CMakeFiles/sphere.dir
+/workspaces/sphere/build/CMakeFiles/edit_cache.dir
+/workspaces/sphere/build/CMakeFiles/rebuild_cache.dir
